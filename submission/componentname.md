@@ -1,0 +1,1 @@
+"---\nlayout: layouts/component.njk\ntitle: component name\ntype: component\neleventyNavigation:\n  key: component name\n  parent: Components\n  excerpt: \"test\"\n---\n# component name\n\n## Brief Description\n\ntest\n\n## Why this is needed\n\ntest\n\n<img src=\"{{ 'assets/images/MoJ-Design-System-01-17-2025_01_24_PM.png | rev | url' }}\" alt=\"\" width=\"100%\">\n\n"
