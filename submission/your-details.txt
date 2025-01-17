@@ -1,0 +1,7 @@
+{
+  "fullName": "full name",
+  "emailAddress": "bob@bob.com",
+  "jobRole": "job",
+  "team": "team name",
+  "showEmailAddress": "yes"
+}
