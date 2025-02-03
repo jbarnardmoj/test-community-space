@@ -1,0 +1,9 @@
+{
+  "fullName": "Test User",
+  "emailAddress": "test@test.com",
+  "shareYourDetails": [
+    "addNameAndEmailToComponentPage",
+    "onlyShareNameAndEmailWhenRequested",
+    "doNotSharePersonalDetails"
+  ]
+}
