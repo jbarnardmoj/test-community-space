@@ -1,0 +1,6 @@
+{
+  "componentName": "test",
+  "componentOverview": "test",
+  "howIsTheComponentUsed": "test",
+  "componentProblemSolved": "test"
+}
