@@ -1,0 +1,67 @@
+---
+    layout: layouts/component.njk
+    title: unknown-component
+    type: component
+    eleventyNavigation:
+      key: unknown-component
+      parent: Components
+      excerpt: ""
+    ---
+
+    # unknown-component
+
+    {% tabs "Contents" %}
+
+    {% tab "Overview" %}
+    ## Overview
+    
+
+    ## Why is the component needed?
+    
+
+    ## Current uses for the component
+    
+
+    {% endtab %}
+
+    {% tab "Code Stuff" %}
+    ## Code Stuff
+
+    
+
+    {% endtab %}
+
+    {% tab "Additional Info" %}
+    ## Additional Info
+    
+
+    ## Links
+
+    
+
+    {% endtab %}
+
+    {% tab "Accessibility" %}
+    ## Accessibility
+    
+
+    ## Links
+
+    
+
+    {% endtab %}
+
+    {% tab "Contribution" %}
+    ## Contribution
+    
+    
+
+    ## History
+
+    **** 10 February 2025
+    Component added
+
+    {% endtab %}
+
+    {% endtabs %}
+    
