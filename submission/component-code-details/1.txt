@@ -1,0 +1,5 @@
+{
+  "componentCodeLanguage": "JavaScript",
+  "componentCodeUsage": "example js",
+  "componentCode": "alert('hello')"
+}
