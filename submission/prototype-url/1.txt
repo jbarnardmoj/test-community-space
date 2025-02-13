@@ -1,0 +1,4 @@
+{
+  "prototypeUrl": "http://two.com",
+  "prototypeUrlAdditionalInformation": "test"
+}
