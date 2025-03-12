@@ -1,0 +1,5 @@
+{
+  "componentName": "Loading Spinner",
+  "componentOverview": "Stuff",
+  "howIsTheComponentUsed": "Test"
+}
