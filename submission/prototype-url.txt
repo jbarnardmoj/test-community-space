@@ -1,0 +1,4 @@
+{
+  "prototypeUrl": "https://forums.moneysavingexpert.com/discussion/6042390/i-want-to-challenge-my-water-bill",
+  "prototypeUrlAdditionalInformation": ""
+}
