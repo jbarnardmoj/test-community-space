@@ -1,0 +1,5 @@
+{
+  "componentName": "Loading",
+  "componentOverview": "Test’s",
+  "howIsTheComponentUsed": "Test"
+}
