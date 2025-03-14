@@ -1,0 +1,6 @@
+{
+  "componentImage": {
+    "originalname": "Snake_River_(5mb).jpg",
+    "redisKey": "file:nex9a8Qwx7v38h5WjxDiPfO8afnG-klV:componentImage"
+  }
+}
