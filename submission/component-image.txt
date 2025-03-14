@@ -1,0 +1,6 @@
+{
+  "componentImage": {
+    "originalname": "MoJ-Design-System-01-17-2025_01_24_PM.png",
+    "redisKey": "file:u54hAoMzHXDCpmhvFtfB3Lf-kzwCybda:componentImage"
+  }
+}
