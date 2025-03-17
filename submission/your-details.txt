@@ -1,0 +1,9 @@
+{
+  "fullName": "Warsome",
+  "emailAddress": "warsome.hersi@justice.gov.uk",
+  "teamName": "DS Team",
+  "shareYourDetails": [
+    "addNameToComponentPage",
+    "addTeamNameWhenRequested"
+  ]
+}

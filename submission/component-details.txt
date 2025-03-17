@@ -1,0 +1,5 @@
+{
+  "componentName": "Matt's spinne-r",
+  "componentOverview": "vvvvvvvvvv",
+  "howIsTheComponentUsed": "dfd"
+}

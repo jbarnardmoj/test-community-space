@@ -1,0 +1,4 @@
+{
+  "prototypeUrl": "www.google.com",
+  "prototypeUrlAdditionalInformation": "dfd"
+}
