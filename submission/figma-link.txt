@@ -1,0 +1,4 @@
+{
+  "figmaLink": "https://moj-frontend-comminity-form-qa-updates.apps.live.cloud-platform.service.justice.gov.uk/contribute/add-new-component/figma-link",
+  "figmaLinkAdditionalInformation": "https://moj-frontend-comminity-form-qa-updates.apps.live.cloud-platform.service.justice.gov.uk/contribute/add-new-component/figma-link"
+}
