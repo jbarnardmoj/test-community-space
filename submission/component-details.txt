@@ -1,0 +1,5 @@
+{
+  "componentName": "component name",
+  "briefDescription": "test",
+  "whyNeeded": "test"
+}
