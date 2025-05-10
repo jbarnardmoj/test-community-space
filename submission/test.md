@@ -1,0 +1,1 @@
+"---\nlayout: layouts/component.njk\ntitle: test\ntype: component\neleventyNavigation:\n  key: test\n  parent: Components\n  excerpt: \"test\"\n---\n# test\n\n## Brief Description\n\ntest\n\n## Why this is needed\n\ntest\n\n"
